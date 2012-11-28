@@ -42,7 +42,11 @@ chsh -s /bin/zsh
 #installing guake terminal
 sudo apt-get install guake
 
+#installing java
+sudo apt-get install openjdk-7-jdk
 
+#installing chicken scheme
+sudo apt-get install chicken-bin
 
 #----------------------------------------------------
 # TWEAKS AND THEMES
@@ -74,6 +78,5 @@ cd gnome-terminal-colors-solarized
 sudo add-apt-repository ppa:tiheum/equinox
 sudo apt-get update && sudo apt-get install faenza-icon-theme faience-*
 
-#installing live wallpapers
 
 

@@ -42,7 +42,11 @@ chsh -s /bin/zsh
 #installing guake terminal
 sudo apt-get install guake
 
+#installing java
+sudo apt-get install openjdk-7-jdk
 
+#installing chicken scheme
+sudo apt-get install chicken-bin
 
 #----------------------------------------------------
 # TWEAKS AND THEMES
