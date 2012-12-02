@@ -69,6 +69,9 @@ cd gnome-terminal-colors-solarized
 
 ./set_dark.sh
 
+#to apply solarized theme to gEdit
+#refer this link http://craig-russell.co.uk/2011/04/13/solarized-colour-theme-for-gedit.html#.ULs7wHDCCj4
+
 #install gnome tweak tool
 #type apt://gnome-tweak-tool in browser and hit enter
 #search for "tweak tool" in software center
